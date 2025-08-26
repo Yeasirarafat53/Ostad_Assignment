@@ -1,4 +1,4 @@
-// lib/elephant.dart
+
 import 'animal.dart';
 
 class Elephant extends Animal {

@@ -1,5 +1,4 @@
 
-// lib/parrot.dart
 import 'animal.dart';
 
 class Parrot extends Animal {

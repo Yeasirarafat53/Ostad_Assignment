@@ -1,4 +1,4 @@
-// lib/animal.dart
+
 abstract class Animal {
   final String _name; // private field
 
