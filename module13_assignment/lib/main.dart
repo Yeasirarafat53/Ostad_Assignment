@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -194,3 +195,4 @@ class CourseCard extends StatelessWidget {
     );
   }
 }
+
